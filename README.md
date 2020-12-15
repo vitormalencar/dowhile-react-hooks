@@ -45,6 +45,8 @@ npm run start
 
 🚀 Head over to [localhost:3000](http://localhost:3000) in your browser of choice.
 
+💡 Pro tip use the `App.final.js` as you final reference guide
+
 ## Toolbelt
 
 - [x] React as a UI language
